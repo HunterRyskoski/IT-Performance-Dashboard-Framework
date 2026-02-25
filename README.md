@@ -46,7 +46,7 @@ The result is a centralized, executive-ready reporting structure built using Pow
 ---
 
 ## Sample Dashboard Preview
-
+![IT Performance Dashboard Sample](hunter-ryskoski-it-performance-dashboard.jpg)
 
 
 
